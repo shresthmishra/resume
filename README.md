@@ -1,1 +1,1 @@
-# Just a consistant repository for my resume.
+Just a consistant repository for my resume.
